@@ -50,9 +50,12 @@
 ## 问答页 (:heavy_multiplication_x:)
 
 参考[node][node]
+参考[segmentfault][segmentfault]
+参考[v2ex][v2ex]
 
 [node]: http://cnodejs.org/
-
+[segmentfault]:https://segmentfault.com/
+[v2ex]:https://www.v2ex.com/
 
 ## 问答添加页 (:heavy_multiplication_x:)
 
@@ -220,7 +223,7 @@
 	> 张志强
 
 	- 文章添加页(支持 富文本 && Markdown)
-	> 张志强
+	> 黄开梓
 
 - 前端组
   <br />
