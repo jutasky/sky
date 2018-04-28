@@ -8,7 +8,7 @@
 
   - [缤奇](https://www.binkic.com/)
 
-    > 二次元？
+    > 二次元？
 
   - [凹凸实验室](https://aotu.io/index.html)
 
