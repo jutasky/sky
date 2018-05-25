@@ -5,6 +5,8 @@
 额，我还在写文档
 
 ### 类似网站
+  - [Loading](https://loading.io/)
+    > Loading加载样式
 
   - [缤奇](https://www.binkic.com/)
 
