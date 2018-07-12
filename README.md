@@ -5,6 +5,8 @@
 额，我还在写文档
 
 ### 类似网站
+  - [FACETS](http://www.facets.la/)
+    > 块的颜色搭配
   - [Loading](https://loading.io/)
     > Loading加载样式
 
